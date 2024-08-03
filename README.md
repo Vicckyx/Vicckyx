@@ -18,4 +18,5 @@ Estou fazendo um bootcamp da WoMakers Code de Python e Django.
 
  #
 
- ![Snake animation](https://.github/workflows/cobrinha.yml)
+![snake animation](https://github.com/Vicckyx/Vicckyx/blob/output/github-contribution-grid-snake.svg)
+
